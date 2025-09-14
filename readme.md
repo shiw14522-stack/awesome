@@ -1,13 +1,13 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+	<br>I love you 
 	<br>
 	<br>
 	<br>
-	<br>
-	<div>
+	<div>I want u to me mine again 
 		<sub>Check out my macOS app</sub>
 		<br>
-		<h2>
+		<h2>I hope u want the same thing
 			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
 			<br>
 			<sup>Elevate your Mac experience</sup>
