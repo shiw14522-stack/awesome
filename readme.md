@@ -13,7 +13,7 @@
 			<sup>Elevate your Mac experience</sup>
 		</h2>
 	</div>
-	<br>
+	<br>..
 	<br>
 	<br>
 	<br>
